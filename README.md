@@ -1,3 +1,3 @@
 # carousal.github.io
 event website
-[click to view changes](carousal.github.io)
+[click to view changes](https://carousal.github.io)
